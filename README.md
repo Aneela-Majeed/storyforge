@@ -19,6 +19,13 @@ This project showcases my full-stack development skills.
 - View all stories in a beautiful grid layout
 - Delete stories you no longer need
 - RESTful API architecture
+## 📸 Screenshots
+
+### Home Page/ creating story
+![StoryForge Home](screenshot1.png)
+
+### Stories Gallery
+![Stories Gallery](screenshot2.png)
 
 ## 🚀 How to Run
 
