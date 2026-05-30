@@ -22,10 +22,10 @@ This project showcases my full-stack development skills.
 ## 📸 Screenshots
 
 ### Home Page/ creating story
-![StoryForge Home](screenshot1.png)
+![StoryForge Home](screenshot1.PNG)
 
 ### Stories Gallery
-![Stories Gallery](screenshot2.png)
+![Stories Gallery](screenshot2.PNG)
 
 ## 🚀 How to Run
 
