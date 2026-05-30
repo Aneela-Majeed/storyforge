@@ -4,7 +4,7 @@ A full-stack web application for creating and managing narrative stories. Built 
 
 ## 🎯 Purpose
 
-This project showcases my full-stack development skills as part of my admissions portfolio.
+This project showcases my full-stack development skills.
 
 ## 🛠️ Technologies
 
@@ -19,6 +19,13 @@ This project showcases my full-stack development skills as part of my admissions
 - View all stories in a beautiful grid layout
 - Delete stories you no longer need
 - RESTful API architecture
+## 📸 Screenshots
+
+### Main Interface
+![StoryForge Main](screenshot1.PNG)
+
+### Creating a Story
+![Create Story](screenshot2.PNG)
 
 ## 🚀 How to Run
 
