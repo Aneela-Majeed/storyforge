@@ -21,11 +21,11 @@ This project showcases my full-stack development skills.
 - RESTful API architecture
 ## 📸 Screenshots
 
-### Home Page/ creating story
-![StoryForge Home](screenshot1.PNG)
+### Main Interface
+![StoryForge Main](screenshot1.PNG)
 
-### Stories Gallery
-![Stories Gallery](screenshot2.PNG)
+### Creating a Story
+![Create Story](screenshot2.PNG)
 
 ## 🚀 How to Run
 
