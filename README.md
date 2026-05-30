@@ -4,7 +4,7 @@ A full-stack web application for creating and managing narrative stories. Built 
 
 ## 🎯 Purpose
 
-This project showcases my full-stack development skills as part of my admissions portfolio.
+This project showcases my full-stack development skills.
 
 ## 🛠️ Technologies
 
